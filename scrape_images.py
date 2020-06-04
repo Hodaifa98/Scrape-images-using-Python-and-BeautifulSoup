@@ -93,7 +93,7 @@ if __name__ == "__main__":
             #Check if a page_number argument was provided
             page = argv[2] if len(argv) > 2 else 1
             #Check if the page_number is a number
-            if not page.isdigit():
+            if not str(page).isdigit():
                 page = 1
             print(f"Currently scrapping images from page: {page}!")
             #Replace the "_" in the term into a space
