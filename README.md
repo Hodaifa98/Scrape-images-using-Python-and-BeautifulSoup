@@ -1,5 +1,5 @@
 # Scrape-images-using-Python-and-BeautifulSoup
-A script that allows you to scrape images using Python from a website. It will extract images, their names and also their alt tags and save them to a folder. 
+A script that allows you to scrape free images using Python from a website(freepik). It will extract images, their names and also their alt tags and save them to a folder. 
 
 Usage: python scrape_images.py term [page_number]<br/>
 
