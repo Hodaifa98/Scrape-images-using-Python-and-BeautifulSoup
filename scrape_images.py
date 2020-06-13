@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-
+#Import required modules
 import os
 from sys import exit, argv
 import requests
