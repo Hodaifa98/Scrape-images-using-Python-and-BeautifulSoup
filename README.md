@@ -10,6 +10,6 @@ A script that allows you to scrape free images using Python from a website(freep
 </br>
 ```python scrape_images.py dog 2```
 </br>
-<!--If the term is contains more than a word, then use "_" instead of space-->
+If the term is contains more than a word, then use "_" instead of space:
 </br>
 ```python scrape_images.py chocolate_cake 3```
