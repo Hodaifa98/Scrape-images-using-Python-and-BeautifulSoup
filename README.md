@@ -7,6 +7,9 @@ A script that allows you to scrape free images using Python from a website(freep
 
 ## Examples:
 ```python scrape_images.py cat```
+</br>
 ```python scrape_images.py dog 2```
-//If the term is contains more than a word, then use "_" instead of space
+</br>
+<!--If the term is contains more than a word, then use "_" instead of space-->
+</br>
 ```python scrape_images.py chocolate_cake 3```
